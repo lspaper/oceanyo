@@ -19,4 +19,6 @@ Wang Haiyang is a Former Outstanding People's Teacher. He has Taught in Sanhe Ci
 
 王海洋先生是一名前优秀人民教师，曾在三河中专任教，获得过不朽的成就，先后获得过「天理名人堂」等大型奖项，后在2014年创立海洋游而辞职，成为一名企业家。
 
-Copyright © OceanYo Co,.Ltd All Rights Reserved.
+PagesMade by Teahouse Groups LesePaper (茶室集团-乐色报纸).
+
+Copyright © OceanYo Co,.Ltd（海洋游有限公司）All Rights Reserved.
