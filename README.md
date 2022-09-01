@@ -1,5 +1,5 @@
 # OceanYo
-**OceanYo（海洋游）**Offical Website Repo. <br>
+**OceanYo（海洋游）** Offical Website Repo. <br>
 >**Leak otakus save the world!**<br>
 >**泄露宅拯救世界！**
 
