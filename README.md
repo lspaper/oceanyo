@@ -1,6 +1,6 @@
+![logo](https://raw.githubusercontent.com/lspaper/oceanyo/main/IMG_0049.png)
 # OceanYo
 **OceanYo（海洋游）** Offical Website Repo. <br>
-![logo](https://raw.githubusercontent.com/lspaper/oceanyo/main/IMG_0049.png)
 >**Leak otakus save the world!**<br>
 >**泄露宅拯救世界！**
 
