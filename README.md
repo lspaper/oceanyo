@@ -2,7 +2,7 @@
 # OceanYo
 **OceanYo（海洋游）** Offical Website Repo. <br>
 >**Leak to (otakus) save the world!**<br>
->**泄露拯救世界！**
+>**泄露（宅）拯救世界！**
 
 ## What's OceanYo?
 OceanYo is a 2Dimensional Animation/Comic/Game Company, Founded by Mr.Wang Haiyang in Sanhe City Junior High School in 2014.
